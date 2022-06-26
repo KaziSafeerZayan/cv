@@ -1,0 +1,35 @@
+body{
+background-color: #DFF6FF;
+font-family: Georgia
+}
+
+h1{
+color: #47B5FF;
+text-align: center;
+font-size: 50px;
+}
+h2{
+color: #1363DF;
+}
+p{
+color: #1363DF;
+}
+
+.myDiv h3{
+color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ul{
+color: #1363DF;
+}
+
+clss{
+    align: center;
+}
